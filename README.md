@@ -1,9 +1,9 @@
 
 # JihadOS
-JihadOS is an Arch Linux ISO made with archiso 
 
-![Logo](https://github.com/Moseii/JihadOS/blob/main/Jihad-chan.png?raw=true)
-
+JihadOS is an Arch Linux ISO made with archiso
+ 
+<img src="https://github.com/Moseii/JihadOS/blob/main/Jihad-chan.png?raw=true" alt="Logo" style="width:30%; height:auto;">
 
 ## Used By
 
